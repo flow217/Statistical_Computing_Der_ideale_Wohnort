@@ -1,0 +1,4 @@
+﻿"Produkt_Code","Produkt_Titel","Einheit","Beschreibung_DWD","Beschreibung_Inspire"
+"OBS_DEU_P1D_T2M","Daily station observations of mean temperature at 2 m above ground in °C","°C","https://cdc.dwd.de/sdi/pid/OBS_DEU_P1D_T2M/DESCRIPTION_OBS_DEU_P1D_T2M_en.pdf","https://cdc.dwd.de/sdi/pid/OBS_DEU_P1D_T2M/ISO_OBS_DEU_P1D_T2M.xml"
+"OBS_DEU_P1D_RF","Daily mean of relative humidity at 2 m above ground in %","%","https://cdc.dwd.de/sdi/pid/OBS_DEU_P1D_RF/DESCRIPTION_OBS_DEU_P1D_RF_en.pdf","https://cdc.dwd.de/sdi/pid/OBS_DEU_P1D_RF/ISO_OBS_DEU_P1D_RF.xml"
+"OBS_DEU_P1D_SD","Daily station observations of sunshine duration in hours","hours","https://cdc.dwd.de/sdi/pid/OBS_DEU_P1D_SD/DESCRIPTION_OBS_DEU_P1D_SD_en.pdf","https://cdc.dwd.de/sdi/pid/OBS_DEU_P1D_SD/ISO_OBS_DEU_P1D_SD.xml"
